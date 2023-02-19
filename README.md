@@ -1,0 +1,6 @@
+Petite Intro ...
+Je suis ingénieur informatique et passionnée par le domaine de la data science. Au fil des années, j'ai acquis une solide expérience en programmation, en analyse de données et en modélisation. Je suis également en train de développer mes compétences en matière de mise en production des modèles de machine learning, afin d'être en mesure de fournir des solutions pratiques à mes clients.
+
+Dans le cadre de mes activités professionnelles, j'ai eu l'occasion de travailler sur de nombreux projets liés à la data science, tels que la modélisation prédictive, la segmentation de clients, la détection de fraudes ou d'anomalies, l'analyse de textes et d'images, etc. J'ai également travaillé avec diverses technologies, telles que Python, R, TensorFlow, Keras, Scikit-Learn, etc.
+
+Afin de mieux me présenter et de montrer ce dont je suis capable, j'ai créé ce portfolio. Il contient divers projets de data science que j'ai réalisés, ainsi que des informations sur mes compétences et mes réalisations professionnelles. Ce portfolio est également l'occasion pour moi de partager mes connaissances et mes réflexions sur le domaine de la data science, et de contribuer ainsi à la communauté des professionnels de ce domaine.
